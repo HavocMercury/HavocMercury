@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HavocMercury
 - 👀 I’m interested in some brain-scratching projects!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like coding and playing badminton and am a huge bibliophile!
 
